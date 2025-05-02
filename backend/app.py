@@ -11,7 +11,7 @@ app = Flask(__name__)
 CORS(app)
 
 # --- Firebase Admin SDK Initialization ---
-cred = credentials.Certificate('./focus-garden-firebase-adminsdk-fbsvc-bdb29fe927.json')
+cred = credentials.Certificate("ADD YOUR API KEY FROM FIREBASE")
 firebase_admin.initialize_app(cred)
 firestore_db = firestore.client()
 
