@@ -51,6 +51,7 @@ This document assumes you have some version of python3, node (npm) installed on 
 * To install all dependencies and packages, run ` pip3 install -r requirements.txt `
 * Run the flask backend in debug mode for automatic reloading : ` flask --app app.py --debug run `
 *  Your flask server will now be running on ` localhost:PORT `! You can look at the terminal for the port number
+*  MAKE SURE YOU ADD YOUR FIREBASE API KEY JSON FILE INTO THE BACKEND AND UPDATE THE LINE  FROM app.py
 
 ### b. Set up Frontend
 * Move into the frontend directory - ` cd frontend `
