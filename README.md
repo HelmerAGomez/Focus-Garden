@@ -68,7 +68,6 @@ After backend and frontend setup, navigate to the link provided by the frontend.
 * Use your login info to retrieve your garden or create a new account.
 ![438460142-ad6b9ff0-20ca-439b-a7ed-2ecad4c36725](https://github.com/user-attachments/assets/5e9ece17-95fb-4a13-a3e5-a1ae76cf33d7)
 )
-![438483525-d6ed488d-b124-406e-9cd5-d2bdad3b91b0](https://github.com/user-attachments/assets/773ff6d6-5afc-4af0-8168-affc5a0a2ba2)
 
 
 ### Main Page
