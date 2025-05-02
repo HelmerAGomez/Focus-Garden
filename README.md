@@ -135,8 +135,9 @@ Pull Request Guidelines:
 * add your email and contact info here
 * 
 -->
+    Helmer Axel Gomez - hgomez@uic.edu
     Fernando Caudillo Tafoya - fcaud2@uic.edu
     Fazal Quadri - mquad5@uic.edu
-    Helmer Gomez - hgomez@uic.edu
+
 
 <p align="right"><a href="#about">back to top ⬆️</a></p>
